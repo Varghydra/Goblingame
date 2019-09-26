@@ -2,7 +2,8 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-// Hello
+// Hello 
+//jag ser det
 
 // Jag ändrar här
 public class Controlls : MonoBehaviour
