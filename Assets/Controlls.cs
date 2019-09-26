@@ -4,6 +4,7 @@ using UnityEngine.Events;
 
 // Hello
 
+// Jag ändrar här
 public class Controlls : MonoBehaviour
 {
 	[SerializeField] private float m_JumpForce = 400f;                          // Amount of force added when the player jumps.
